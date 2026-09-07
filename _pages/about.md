@@ -1,6 +1,8 @@
 
 About me
 ======
+Hello!
+
 I am a junior undergraduate student at the **College of Computer and Data Science, Fuzhou University**, with a deep passion for computer science and a clear career goal of growing into a professional in the software industry.
 
 My core learning focus is **full-stack software development**. I have built a solid technical foundation in Java backend engineering and modern frontend technologies, and I am committed to writing robust, scalable, and well-structured code. I enjoy the process of turning product requirements into complete, user-friendly applications, and I always pursue high code quality and standardized engineering practices in every project.
