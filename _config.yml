@@ -23,7 +23,7 @@ repository               : "John-ship-it5552/John-ship-it5552.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/4A6CEF24D4F1683D1C0FED00280E510B.jpg"
+  avatar           : "images/4A6CEF24D4F1683D1C0FED00280E510B.png"
   name             : "LYnan"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
